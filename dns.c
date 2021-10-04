@@ -59,13 +59,15 @@ void LoadHostsFile(DNSHandle hDNS, const char *hostsFilePath) { // loads DNS inf
   if (NULL == fInput) {
     return;
   }
+
   while (fscanf_s(fInput, "%d.%d.%d.%d %s", &ip1, &ip2, &ip3, &ip4, string, 201) != EOF) {
     IPADDRESS ip = (ip1 & 0xFF) << 24 | //converting and masking IP address
-        (ip2 & 0xFF) << 16 |
-        (ip3 & 0xFF) << 8 |
-        (ip4 & 0xFF);
+                    (ip2 & 0xFF) << 16 |
+                    (ip3 & 0xFF) << 8 |
+                    (ip4 & 0xFF);
     Add_to_table(hDNS, string, ip);
   }
+
   free(string);
   fclose(fInput);
 }
@@ -87,11 +89,10 @@ void ShutdownDNS(DNSHandle hDNS) { //shuts down DNS engine and release all its r
   Node *current;
   for (int i = 0; i < SIZE; i++) {
     current = &(((Node *) hDNS)[i]);
-    while (current != NULL) {
-      current = current->next_pair;
+    while (current) {
       tmp = current;
+      current = current->next_pair;
       free(tmp->domain);
-      //free(tmp->next_pair);
       //free(tmp);
     }
   }

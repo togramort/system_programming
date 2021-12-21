@@ -1,0 +1,3 @@
+"D:\prog\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ipc2.dir/objects.a
+D:\prog\mingw\mingw64\bin\ar.exe cr CMakeFiles\ipc2.dir/objects.a @CMakeFiles\ipc2.dir\objects1.rsp
+D:\prog\mingw\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\ipc2.dir/objects.a -Wl,--no-whole-archive -o ipc2.exe -Wl,--out-implib,libipc2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ipc2.dir\linklibs.rsp

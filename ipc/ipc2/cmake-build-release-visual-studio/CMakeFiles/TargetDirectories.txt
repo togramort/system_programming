@@ -1,0 +1,3 @@
+D:/program etc/projects2/sp/ipc2/cmake-build-release-visual-studio/CMakeFiles/rebuild_cache.dir
+D:/program etc/projects2/sp/ipc2/cmake-build-release-visual-studio/CMakeFiles/ipc2.dir
+D:/program etc/projects2/sp/ipc2/cmake-build-release-visual-studio/CMakeFiles/edit_cache.dir

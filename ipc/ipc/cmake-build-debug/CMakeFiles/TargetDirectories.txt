@@ -1,0 +1,3 @@
+D:/program etc/projects2/sp/ipc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/program etc/projects2/sp/ipc/cmake-build-debug/CMakeFiles/ipc.dir
+D:/program etc/projects2/sp/ipc/cmake-build-debug/CMakeFiles/edit_cache.dir

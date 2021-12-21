@@ -1,0 +1,33 @@
+﻿  dllmain.cpp
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(141,12): warning C4566: character represented by universal-character-name '\uFF0E' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(141,12): warning C4566: character represented by universal-character-name '\u3000' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(141,12): warning C4566: character represented by universal-character-name '\uFF3F' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(142,12): warning C4566: character represented by universal-character-name '\uFF0E' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(142,12): warning C4566: character represented by universal-character-name '\u3000' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(143,12): warning C4566: character represented by universal-character-name '\uFF0E' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(144,12): warning C4566: character represented by universal-character-name '\uFF0E' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(144,12): warning C4566: character represented by universal-character-name '\u3000' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(144,12): warning C4129: '#': unrecognized character escape sequence
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(144,12): warning C4566: character represented by universal-character-name '\u30FC' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(144,12): warning C4566: character represented by universal-character-name '\u4E5B' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(145,12): warning C4566: character represented by universal-character-name '\uFF0E' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(145,12): warning C4129: '#': unrecognized character escape sequence
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(146,12): warning C4566: character represented by universal-character-name '\u3000' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(146,12): warning C4566: character represented by universal-character-name '\u4E5B' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(146,12): warning C4566: character represented by universal-character-name '\uFF3C' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(147,12): warning C4566: character represented by universal-character-name '\u3000' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(148,12): warning C4129: ' ': unrecognized character escape sequence
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(149,12): warning C4566: character represented by universal-character-name '\u3000' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(150,12): warning C4566: character represented by universal-character-name '\u3000' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(150,12): warning C4566: character represented by universal-character-name '\u4E3F' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(151,12): warning C4566: character represented by universal-character-name '\u3000' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(152,12): warning C4566: character represented by universal-character-name '\u3000' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(153,12): warning C4566: character represented by universal-character-name '\u3000' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(154,12): warning C4566: character represented by universal-character-name '\u3000' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(155,12): warning C4566: character represented by universal-character-name '\u3000' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(155,12): warning C4566: character represented by universal-character-name '\uFF0F' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(156,12): warning C4566: character represented by universal-character-name '\u3000' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(156,12): warning C4566: character represented by universal-character-name '\u4E40' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(157,12): warning C4566: character represented by universal-character-name '\uFF09' cannot be represented in the current code page (1251)
+D:\program etc\projects2\sp\nonono\notcoolplugin2\dllmain.cpp(130): warning C4715: 'GetAuthor': not all control paths return a value
+  notcoolplugin2.vcxproj -> D:\program etc\projects2\sp\nonono\Debug\notcoolplugin2.dll

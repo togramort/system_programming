@@ -1,0 +1,7 @@
+﻿  mainmain.cpp
+sthnotlib.lib(sthnotlib.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+sthnotlib.lib(sthnotlib.obj) : error LNK2005: _Plugins already defined in mainmain.obj
+sthnotlib.lib(sthnotlib.obj) : error LNK2005: _pluginsCount already defined in mainmain.obj
+     Creating library D:\program etc\projects2\sp\nonono\Release\mainmain.lib and object D:\program etc\projects2\sp\nonono\Release\mainmain.exp
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+D:\program etc\projects2\sp\nonono\Release\mainmain.exe : fatal error LNK1169: one or more multiply defined symbols found

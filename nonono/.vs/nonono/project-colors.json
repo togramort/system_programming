@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b72d29ff-eeec-40ef-8c9b-990b266de99a": {
+      "ProjectGuid": "b72d29ff-eeec-40ef-8c9b-990b266de99a",
+      "DisplayName": "mainmain",
+      "ColorIndex": 0
+    },
+    "20ed6eb2-02d7-4f38-b16d-bde6ed46f37a": {
+      "ProjectGuid": "20ed6eb2-02d7-4f38-b16d-bde6ed46f37a",
+      "DisplayName": "notcoolplugin1",
+      "ColorIndex": 1
+    },
+    "add893fc-9625-40b4-a57c-210eb22b169f": {
+      "ProjectGuid": "add893fc-9625-40b4-a57c-210eb22b169f",
+      "DisplayName": "notcoolplugin2",
+      "ColorIndex": 2
+    },
+    "78f9bdda-0428-441d-88e8-9f382acdbc88": {
+      "ProjectGuid": "78f9bdda-0428-441d-88e8-9f382acdbc88",
+      "DisplayName": "sthnotlib",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
